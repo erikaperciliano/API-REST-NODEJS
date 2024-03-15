@@ -1,7 +1,7 @@
 # RF
 
 - [x] The user  can create a new transaction
-- [] The user can get account summary
+- [x] The user can get account summary
 - [x] The user can list all transaction that have already occurred
 - [x] The user can view single transaction
 
