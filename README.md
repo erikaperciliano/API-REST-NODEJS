@@ -7,6 +7,6 @@
 
 # RN
 
--[x] The transaction can be of the credit type that adds the total amount, or debit will subtract
--[] Should be possible identify the user between the requisitions
--[] The user only can see transactions which he created
+- [x] The transaction can be of the credit type that adds the total amount, or debit will subtract
+- [x] Should be possible identify the user between the requisitions
+- [x] The user only can see transactions which he created
