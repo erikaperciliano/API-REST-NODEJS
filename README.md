@@ -8,5 +8,5 @@
 # RN
 
 - [x] The transaction can be of the credit type that adds to the total amount, or debit will subtract
-- [] It must be possible to identify the user between requests
-- [] The user can only view transactions that he created
+- [x] It must be possible to identify the user between requests
+- [x] The user can only view transactions that he created
